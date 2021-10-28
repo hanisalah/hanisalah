@@ -10,6 +10,7 @@ Below are some of the projects I have been working with:
 3. [US Flight Delay Data Visualization](https://github.com/hanisalah/Flight_Delay_DataVisualization)
 4. [Predicting Bike Sharing Patterns](https://github.com/hanisalah/Predicting_bike_sharing_patterns)
 5. [Landmark Image Classification for Social Media](https://github.com/hanisalah/landmark_classification_and_tagging_for_social_media)
+6. [Generate TV Script](https://github.com/hanisalah/Generate-TV-Script)
 
 <!---
 hanisalah/hanisalah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
