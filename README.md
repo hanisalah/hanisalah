@@ -14,6 +14,7 @@ Below are some of the projects I have been working with:
 7. [Generate Faces](https://github.com/hanisalah/Generate_Faces)
 8. [Sentiment Analysis Using Pytorch and AWS Sagemaker](https://github.com/hanisalah/Sentiment_Analysis_Using_Pytorch_and_Sagemaker)
 9. [Monocular Measurement 3D](https://github.com/hanisalah/Monocular_Measurement_3D)
+10. [Color By Numbers](https://github.com/hanisalah/color_by_numbers)
 
 <!---
 hanisalah/hanisalah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
